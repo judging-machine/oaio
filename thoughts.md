@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing Thoughts
+title: Judging Thoughts
 ---
 {% include utilities.html %}
 <div class="container-md markdown-body">
